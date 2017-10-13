@@ -1,0 +1,62 @@
+
+.bg-photo {
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/02/High-Res-Black-and-Red-Vintage-Wallpapers.png");
+    height: 300px;
+}
+
+.text-uppercase {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 250%;
+
+}
+
+.btn-deal {
+    background-color: grey;
+    border-radius: 4px;
+    width: 150px;
+    color: white;
+    padding: 14px 40px;
+    margin: 40px 12px 12px 10px;
+
+}
+
+.btn-hit {
+    background-color: grey;
+    border-radius: 4px;
+    width: 150px;
+    color: white;
+    padding: 14px 40px;
+    margin: 40px 12px 12px 10px;
+}
+
+.btn-stand {
+    background-color: grey;
+    border-radius: 4px;
+    width: 150px;
+    color: white;
+    padding: 14px 40px;
+    margin: 40px 12px 12px 10px;
+}
+
+.btn-play-again {
+    background-color: grey;
+    border-radius: 4px;
+    width: 150px;
+    color: white;
+    padding: 14px 40px;
+    margin: 40px 12px 12px 10px;
+}
+
+.card {
+    height: 300px;
+    margin: 15px;
+}
+
+body {
+    margin: 60px;
+}
+
+.container {
+        margin-top: 20px;
+    }
